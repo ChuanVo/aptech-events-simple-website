@@ -9,19 +9,22 @@
 ## Phần II: "Tạo bộ khung cho website" - HTML
 #### Bước 1. Tạo file `index.html`
 - Chọn nút `New file`
+
 ![alt text](image.png)
 
 - Đặt tên file là `index.html` -> Bấm `Enter`
+
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
 #### Bước 2: Vọc vạch về HTML
 - Nhập `ht` -> chọn `html5`
-![alt text](image-3.png)
 
+![alt text](image-3.png)
 ![alt text](image-4.png)
 
 - Nhập `Hello World` vào `body`
+
 ![alt text](image-7.png)
 
 => Code sẽ trông như thế này!!!
@@ -42,6 +45,7 @@
 - Lưu thay đổi
 
 - Mở website
+
 ![alt text](image-5.png)
 
 ### Bước 3: Triển khai code html cho website profile
@@ -74,18 +78,22 @@
 ```
 
 => Kết quả:
+
 ![alt text](image-6.png)
 
 
 ## Phần III: "Làm đẹp cho đời" -  CSS
 #### Bước 1: Tạo folder css tại thư mục `my_profile`
 - Chọn nút `New folder`
+
 ![alt text](image-8.png)
 
 - Đặt tên folder là `css` -> Bấm `Enter`
+
 ![alt text](image-9.png)
 
 #### Bước 2: Tạo file `style.css` trong thư mục `css vừa tạo
+
 ![alt text](image-10.png)
 
 #### Bước 3: Style cho ảnh profile
@@ -110,6 +118,7 @@ Kiểm tra website có thay đổi gì không?
 ```
 
 Kết quả:
+
 ![alt text](image-11.png)
 
 #### Bước 5: Style cho Header của trang web
@@ -200,12 +209,15 @@ h1 {
 ```
 
 => Kết quả: 
+
 ![alt text](image-12.png)
 
 ## Phần IV: Bài tập
 - **Bài 1:** Thay đổi màu chữ tiêu đề từ đỏ -> xanh
+
 ![alt text](image-13.png)
- Gợi ý: Sử dụng thuộc tính `color: blue;`
+
+Gợi ý: Sử dụng thuộc tính `color: blue;`
 
 - **Bài 2:** Thêm hiệu ứng animation để tiêu đề đổi từ xanh -> đỏ và ngược lại
 
